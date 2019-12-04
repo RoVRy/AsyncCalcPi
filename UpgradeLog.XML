@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsynchCalcPi">
+</Property><Property Name="Solution File" Value="D:\Microsoft Visual Studio\Projects\AsynchCalcPi\AsynchCalcPi.sln">
+</Property><Property Name="User Options File" Value="D:\Microsoft Visual Studio\Projects\AsynchCalcPi\AsynchCalcPi.suo">
+</Property><Property Name="Date" Value="26 мая 2008 г.">
+</Property><Property Name="Time" Value="9:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AsynchCalcPi.sln" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\AsynchCalcPi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AsynchCalcPi.suo" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\AsynchCalcPi.suo">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="AsynchCalcPi.csproj" Description="Project file successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\AsynchCalcPi.csproj">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="AsynchCalcPi.csproj.user" Description="Project user file successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\AsynchCalcPi.csproj.user">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="Form1.cs" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="NineDigitsOfPiAt.cs" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\NineDigitsOfPiAt.cs">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="App.ico" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="Form1.resx" Description="File successfully backed up as D:\Microsoft Visual Studio\Projects\AsynchCalcPi\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="AsynchCalcPi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsynchCalcPi" Source="AsynchCalcPi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsynchCalcPi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AsynchCalcPi.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsynchCalcPi" Source="AsynchCalcPi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
